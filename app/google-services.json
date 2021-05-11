@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289869403574",
+    "project_id": "notificationapp-b2247",
+    "storage_bucket": "notificationapp-b2247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289869403574:android:dea4d80a8d4412dee75d17",
+        "android_client_info": {
+          "package_name": "com.vferneda.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289869403574-qq9eacn3p6mgb0helrk44oekts8t9tn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeCC2naggRTOr4DIN-obNzB83_fSCKEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289869403574-qq9eacn3p6mgb0helrk44oekts8t9tn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
